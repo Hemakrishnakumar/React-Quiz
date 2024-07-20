@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs all the packages required for this application.
+
+### `npm run server`
+
+It runs the json server on the port:8000, this is hosting all the quiz questions, please update port number if required in the scripts.
+
 ### `npm start`
 
 Runs the app in the development mode.\
